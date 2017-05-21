@@ -10,12 +10,14 @@ mutt "mongodb://<my anonymized URI here>"
 mongo <my anonymized mongo command details>
 ```
 
-### Actual Mongo command mutt created or error output
+### Actual Mongo command mutt created
 
 ```
 mongo <details>
 ```
-or
+
+<!-- Delete this section if it's not applicable -->
+### Mutt gave me an error message / crashed
 ```
 error / stacktrace
 ```
